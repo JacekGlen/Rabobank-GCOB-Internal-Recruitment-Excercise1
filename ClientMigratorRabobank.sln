@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientMigratorRabobank", "ClientMigratorRabobank\ClientMigratorRabobank.csproj", "{6D2E575E-1580-43FE-BCE1-B1D1B7269EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabobank.GCOB.External", "Rabobank.GCOB.External\Rabobank.GCOB.External.csproj", "{0878ED0B-436D-4F35-AAA1-3E7BAC4C815A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D2E575E-1580-43FE-BCE1-B1D1B7269EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2E575E-1580-43FE-BCE1-B1D1B7269EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2E575E-1580-43FE-BCE1-B1D1B7269EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2E575E-1580-43FE-BCE1-B1D1B7269EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0878ED0B-436D-4F35-AAA1-3E7BAC4C815A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0878ED0B-436D-4F35-AAA1-3E7BAC4C815A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0878ED0B-436D-4F35-AAA1-3E7BAC4C815A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0878ED0B-436D-4F35-AAA1-3E7BAC4C815A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29CE517-E2B9-49DE-98C1-FA5AA731821B}
+	EndGlobalSection
+EndGlobal
